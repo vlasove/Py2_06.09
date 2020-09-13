@@ -27,3 +27,7 @@ p2 = Point()
 print("IN MAIN.PY")
 print(1/0)
 
+https://github.com/vlasove/Py2_06.09
+https://contest.yandex.ru/contest/19766
+
+D
